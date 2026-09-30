@@ -1,72 +1,13 @@
-<h1 align="center">Hi there, I'm Abraham Golor 👋</h1>
-<p align="center">🔐 Mobile & Backend Developer | Building secure, cross-platform apps</p>
+# Hi, I'm Abraham 👋
 
-<p align="center">
-  <a href="mailto:abgolor@gmail.com"><img src="https://img.shields.io/badge/email-abgolor@gmail.com-blue?style=flat-square&logo=gmail" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/abgolor"><img src="https://img.shields.io/badge/LinkedIn-abgolor-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://github.com/abgolor"><img src="https://img.shields.io/github/followers/abgolor?label=GitHub&style=flat-square&logo=github" alt="GitHub" /></a>
-</p>
+I love building mobile apps that people rely on every day, and sharing the tools I make along the way.
 
----
+I'm a mobile engineer at [Goalr](https://goalr.world), building the Android and iOS apps ([Google Play](https://play.google.com/store/apps/details?id=com.goalr&hl=en) · [App Store](https://apps.apple.com/ng/app/goalr-walk-run-ride-earn/id6465899289)) with Kotlin Multiplatform and Compose Multiplatform for 3,500+ users across Nigeria, the UK, the US, and South Africa. I also lead mobile development part-time at [RideTego](https://ridetego.net), a ride-hailing platform, where I own the rider and driver apps and their releases on both stores.
 
-### 🧑‍💻 About Me
+Since 2021, I've also run [Ajay Innovations](https://github.com/ajayinnovations), where I've built Android apps for device security, encrypted messaging, and offline-first business workflows, and delivered projects for clients in Germany, Canada, and Australia.
 
-I'm a passionate mobile and backend developer with experience building secure, privacy-first apps on Android, iOS (SwiftUI), and cross-platform (Flutter). I focus on building apps that prioritize **device security**, **real-time performance**, and **modern UI/UX**.
+I care about clean architecture, offline-first data, and background work that stays reliable without draining the battery.
 
-I’ve developed secure chat apps, device tracking tools, custom input systems, and system-level utilities. My projects reflect a deep understanding of mobile internals, encryption, and backend architecture.
+**Open source:** [PhoneNumber](https://github.com/ajayinnovations/phonenumber) (Kotlin Multiplatform phone-number library, on [Maven Central](https://mvnrepository.com/artifact/com.ajayinnovations.phonenumber/phonenumber-android)) · [Signal Android](https://github.com/signalapp/Signal-Android/commit/ff217b061f0d1893276baddb6cece977dae4505c) (merged fix) · [Lawnchair](https://github.com/LawnchairLauncher/lawnchair/pull/6886) (merged fix) · [Eko Translate](https://github.com/abgolor/building-with-omeifeAI-hackathon) (AI English-to-Yoruba translator, second runner-up at the Omeife AI Hackathon 2025)
 
----
-
-### 🧰 Tech Stack
-
-#### 💻 Languages  
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
-![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
-#### 📱 Mobile & UI  
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)  
-![SwiftUI](https://img.shields.io/badge/SwiftUI-FFAC45?logo=apple&logoColor=white)  
-
-#### 🔧 Backend & Tools  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=spring&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| 🔐 **[Index Chat](https://github.com/abgolor/IndexChat)** | A secure real-time chat app with end-to-end encryption. Messages are never stored on any server. |
-| 📍 **[SafeTrust](https://github.com/abgolor/SafeTrust)** | Android/iOS tracker that auto-locks your device when lost or stolen. |
-| ⌨️ **[Terrasphere](https://github.com/abgolor/Terrasphere)** | Custom encrypted keyboard that automatically scrambles everything you type. |
-| 🧯 **[Cellebrite Blocker](https://github.com/abgolor/CellebriteBlocker)** | A root-level tool that detects USB connections and self-destructs sensitive files to block forensic extraction. |
-| 🌍 **[EkoTranslate](https://github.com/abgolor/EkoTranslate)** | A cross-platform language translator. **🏆 Winner - OmeifeAI Hackathon 2023**. |
-
-> ✅ You can explore all my work at [github.com/abgolor](https://github.com/abgolor)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abgolor&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abgolor&layout=compact&theme=tokyonight" height="170" />
-</p>
-
----
-
-### 💬 Let's Connect
-
-I'm always open to collaboration, freelance projects, or interesting challenges.  
-Reach me at: **abgolor@gmail.com** or connect via [LinkedIn](https://www.linkedin.com/in/abgolor)
-
----
-
-_Thanks for visiting!_
+**Elsewhere:** [LinkedIn](https://linkedin.com/in/abgolor) · [Email](mailto:abgolor@gmail.com)
